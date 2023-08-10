@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/meta</item>
+        <!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/meta</item>-->
+        <item name="postSplashScreenTheme">@style/Base.Theme.InstaClone</item>
+
+    </style>
+
+<!--    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">-->
+<!--        <item name="android:windowSplashScreenBackground">@color/white</item>-->
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/instagram</item>-->
+<!--        &lt;!&ndash;        <item name="android:windowSplashScreenAnimatedIcon">@drawable/meta</item>&ndash;&gt;-->
+<!--        <item name="postSplashScreenTheme">@style/Base.Theme.InstaClone</item>-->
+
+<!--    </style>-->
+</resources>
